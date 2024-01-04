@@ -2,7 +2,7 @@
 ___
 ---
 
-## Finance & Sales Analytics Reports:
+## [Finance & Sales Analytics Reports:](https://github.com/NaveenBandekar/Excel-Sales-Finance-Analytics/tree/9af934e58327efcbdba039dd1cfa70e980e9d27a/Finance%20%26%20Sales%20Analytics)
 - **A. Sales Analytics Projects:**
 
     **1.** _[Customer Performance Report](https://github.com/NaveenBandekar/Excel-Sales-Finance-Analytics/blob/5f76e8f3c0a6749db5cf862cff4c685ae61f019a/Finance%20%26%20Sales%20Analytics/Customer%20Performance%20Report.pdf)_ shows Net Sales Performance of 2021 vs 2020
@@ -35,7 +35,7 @@ ___
 -- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 ---
-## Business Application Tools:
+## [Business Application Tools:](https://github.com/NaveenBandekar/Excel-Sales-Finance-Analytics/tree/9af934e58327efcbdba039dd1cfa70e980e9d27a/Business%20Application%20Tools)
 - **Business Application Projects:**
 
     **1.** _[Project Priority Matrix](https://github.com/NaveenBandekar/Excel-Sales-Finance-Analytics/blob/5f76e8f3c0a6749db5cf862cff4c685ae61f019a/Business%20Application%20Tools/Project%20Priority%20Matrix.pdf)_ shows a Bubble Chart which would help with Project selection based on Feasibility, Impact & Size.
